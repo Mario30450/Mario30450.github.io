@@ -1,0 +1,191 @@
+
+body {
+    text-align: center;
+
+background-color: #feca57;
+}
+
+
+
+h1 {
+
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    background: #ee5253;
+    
+}
+
+h2 {
+
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    background: #ee5253;
+    
+}
+
+
+header, nav, section, article, h1, h2, aside {
+    border: 1px solid black;
+    display: blok;
+    text-align: center;
+
+} 
+
+p {
+    text-align: justify;
+}
+
+nav {
+
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 40px;
+    background: #feca57;
+    width: 700px;
+}
+
+
+img
+{
+    height: 200px;
+    
+}
+
+
+
+
+div {
+    width: 1000px;
+    background: center #ff9f43;
+    margin: auto;
+    border: 3px solid black;
+    
+    
+}
+
+* {
+    margin: auto;
+    padding: 10px;
+}
+
+.header {
+    background: #feca57;
+    width: 600px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+
+}
+
+article{
+    background: #feca57;
+}
+
+article h1 {
+    background: #ee5253;
+    border: 2px solid black;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+footer   {
+        display: inline-flex;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 90%;
+}
+
+footer img{
+    height: 100px
+}
+
+article time{
+    margin-block-start: 10px;
+}
+
+
+aside li {
+    display: inline;
+}
+
+.margin-b-xs{
+    margin-bottom: 40px;
+}
+
+nav button {
+    width: 35%;
+    display: inline;
+    background-color: rgb(241, 81, 6);
+}
+
+button {
+    display: block;
+    text-align: center;
+    background: #ee5253;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.links {
+    background: #ee5253;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer button{
+    width: 100px;
+}
+
+.a{
+    background: #feca57;
+    width: 20%;
+    margin: auto;
+}
+
+.peque{
+    border: 2px solid black;
+    background: #feca57;
+}
+
+#entorno{
+display: block;
+margin: 0 auto;
+
+
+
+} 
+g{
+    background: #d6d1c5;
+    text-align: center;
+   
+}
+
+#fondo {
+    opacity: 0.7;
+}
+
+.movil {
+    
+    opacity: 0.7;
+   width: 140px;
+height: 150px;
+}
+
+
+.movi {
+    
+   opacity: 0;
+   width: 140px;
+height: 150px;
+
+x: 580;
+y: 80;
+}

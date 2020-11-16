@@ -1,0 +1,140 @@
+h1 {
+
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    background: red;
+    
+}
+
+h2 {
+
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    background: red;
+    
+}
+
+
+header, nav, section, article, h1, h2, aside {
+    border: 1px solid black;
+display: blok;
+text-align: center;
+
+} 
+
+nav {
+
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 40px;
+    background: gold;
+    width: 600px;
+}
+
+body {
+    text-align: center;
+}
+
+img
+{
+    height: 200px;
+}
+
+   img.active 
+    { imágenes\ image (18).jpg: imágenes\ image (18)b.jpg;
+      } 
+
+
+div {
+    width: 1000px;
+    background: center rgb(241, 81, 6);
+    margin: auto;
+    border: 3px solid black;
+    
+    
+}
+
+* {
+    margin: auto;
+    padding: 10px;
+}
+
+.header {
+    background: gold;
+width: 600px;
+margin-bottom: 10px;
+margin-top: 40px;
+
+}
+
+article{
+    background: gold;
+}
+
+article h1 {
+    background: red;
+    border: 2px solid black;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+footer   {
+        display: inline-flex;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 90%;
+}
+
+footer img{
+    height: 100px
+}
+
+article time{
+
+    margin-block-start: 10px;
+}
+
+
+aside li {
+    display: inline;
+}
+
+.margin-b-xs{
+    margin-bottom: 40px;
+}
+
+nav button {
+    width: 40%;
+    display: inline;
+    background-color: rgb(241, 81, 6);
+}
+
+button {
+      display: block;
+    text-align: center;
+    background: red;
+        width: 500px;
+    margin: auto;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.links {
+    background: red;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer button{
+    width: 100px;
+}
+
+ 
+
